@@ -1,16 +1,14 @@
-[
-    {
-      "id": 0,
-      "info": "Racing car sprays burning fuel into crowd.",
-      "done": true
+[{
+        "id": 0,
+        "info": "今天你努力了吗？",
+        "done": true
     },
-    { "id": 1, "info": "Japanese princess to wed commoner.", "done": false },
+    { "id": 1, "info": "你今天比昨天更加博学了吗？", "done": false },
     {
-      "id": 2,
-      "info": "Australian walks 100km after outback crash.",
-      "done": true
+        "id": 2,
+        "info": "今天想到个废物吗？",
+        "done": false
     },
-    { "id": 3, "info": "Man charged over missing wedding girl.", "done": false },
-    { "id": 4, "info": "Los Angeles battles huge wildfires.", "done": false }
-  ]
-  
+    { "id": 3, "info": "今天我要复习或者回去看之前的代码", "done": true },
+    { "id": 4, "info": "明天再说吧", "done": false }
+]
